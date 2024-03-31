@@ -1,2 +1,2 @@
 # InteractiveCMDDataAnalyzer
-Designed to handle and analyze real-time data streams from command-line interfaces.
+Designed to handle and analyze real-time data streams from command-line interfaces. With an intutive user interface, users can configure test parameters, import/export settings, and seamless interact with live data streams. The application provides robust functionality for processing, manipulating and visualizing command-line data in real-time, enabling user to gain valuable insights and make informed decisions. 
